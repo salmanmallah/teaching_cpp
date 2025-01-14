@@ -69,4 +69,22 @@ int main() {
 	// if(month == 1){
 	// 	cout<<
 	// }
+
+	// / Task 4: Write a C++ program that checks if a given year is a leap year.
+	// / A year is a leap year if it is divisible by 4, except for years that
+	// are / divisible by 100, unless they are also divisible by 400. USE ONLY
+	// SINGLE / IF & ELSE. Hint: Make use of logical operators. input: 2004
+	// output: is a leap year
+
+	// int year = 2000;
+	// if (year % 4 == 0 || year % 100 == 0 && year % 400 == 0) {
+	// 	cout << year << " is a leap year" << endl;
+	// }
+
+
+
+	
+
+
+
 }

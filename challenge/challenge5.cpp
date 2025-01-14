@@ -25,7 +25,6 @@ int main() {
 			break;
 		} else {
 			cout << "Wrong, Guess again!" << endl;
-			
 		}
 
 	} while (user_guess != winning_number);
