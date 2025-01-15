@@ -7,7 +7,7 @@ int main() {
 	// consonants (all other alphabetic characters) in the string. Ignore spaces
 	// and non-alphabetic characters.
 
-	string name = "salman";
+	// string name = "salman";
 	// 0 = s
 	// 1 = a
 	// 2 = l
@@ -45,6 +45,13 @@ int main() {
 	// }
 	// cout << "total vowel counts: " << vowel_counter << endl;
 	// cout << "total consonant counts: " << consonants << endl;
+
+	// nested loop 
+	for(int i = 0; i < 5; i++){
+		for(j){
+
+		}
+	}
 
 	return 0;
 }
