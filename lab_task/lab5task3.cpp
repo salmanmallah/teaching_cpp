@@ -46,10 +46,9 @@ int main() {
 	// cout << "total vowel counts: " << vowel_counter << endl;
 	// cout << "total consonant counts: " << consonants << endl;
 
-	// nested loop 
-	for(int i = 0; i < 5; i++){
-		for(j){
-
+	// nested loop
+	for (int i = 0; i < 5; i++) {
+		for (j) {
 		}
 	}
 
