@@ -1,0 +1,21 @@
+FUNCTION isPrime(n):
+    IF n <= 1 THEN
+        RETURN false
+    END IF
+    FOR i FROM 2 TO (n / 2):
+        IF (n MOD i == 0) THEN
+            RETURN false
+        END IF
+    END FOR
+    RETURN true
+END FUNCTION
+
+BEGIN MAIN:
+    PRINT "Enter a number: "
+    READ n
+    IF isPrime(n) THEN
+        PRINT n, "is a prime number."
+    ELSE
+        PRINT n, "is not a prime number."
+    END IF
+END MAIN
